@@ -1,8 +1,33 @@
 hi bhai
     // variable declaration
     bhai ye hai fullName = "Ibrahim Rehman"; 
+    // bhai ye hai fullName = "Ayesha Farooq"; 
     bhai ye hai isMale = sahi;  // true
     bhai ye hai isFemale = galat; // false
     bhai ye hai money = nalla; // null
-    bol bhai fullName, money;
+    // bol bhai fullName, money;
+
+
+    // Conditionals
+    agar bhai (fullName == "Ibrahim Rehman"){
+        bol bhai sahi;
+    } nahi to bhai (fullName == "Ayesha Farooq"){
+        bol bhai galat;
+    } warna bhai {
+        bol bhai nalla;
+    }
+
+    // Loops
+    bhai ye hai counter = 0;
+    jab tak bhai (counter < 10){
+        agar bhai (counter == 9){
+            bas kar bhai
+        }
+        counter += 1;
+
+        agar bhai (counter == 5){
+            agla dekh bhai;
+        }
+        bol bhai counter;
+    }
 bye bhai
