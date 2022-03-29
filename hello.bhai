@@ -1,0 +1,8 @@
+hi bhai
+    // variable declaration
+    bhai ye hai fullName = "Ibrahim Rehman"; 
+    bhai ye hai isMale = sahi;  // true
+    bhai ye hai isFemale = galat; // false
+    bhai ye hai money = nalla; // null
+    bol bhai fullName, money;
+bye bhai
